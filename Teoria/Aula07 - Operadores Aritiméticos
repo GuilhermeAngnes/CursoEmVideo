@@ -1,0 +1,25 @@
+1- Operadores Mais Utilizados em Python:
+	+  Adição;
+	-  Subtração;
+	*  Mutiplicação;
+	/  Divisão;
+	** Potência;
+	// Divisão Inteira;
+	%  Resto de Divisão;
+	== Utilizado para Igual;
+
+Exemplos de Cada Operador:
+	5 + 2 == 7 ;
+	5 - 2 == 3 ;
+	5 * 2 == 10 ;
+	5 / 2 == 2.5 ;
+	5 ** 2 == 25 ;
+	5 // 2 == 2 (5 divido por 2 fica 2 e sobra um, então divisão inteira fica 				2 e um vai para resto da divisão);
+	5 % 2 == 1 ;
+
+
+2- Ordem de Precedências:
+	1º = {} ;
+	2º = ** ;
+	3º = *, /, //, % ;
+	4º = +, - ;

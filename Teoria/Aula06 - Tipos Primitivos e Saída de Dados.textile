@@ -1,0 +1,24 @@
+1- Exemplo de criação de variável;
+	n1 = int(input('digite um numero: ')
+	n2 = int(input('digite um numero: ')
+	s = n1 + n2
+	print()
+
+input = Recebe o valor;
+n1 e n2 = Nome da variável que receberá o valor do input;
+s = Realiza  a some entre as variáveis n1 e n2;
+print = Exibe o resultado da suma em tela;
+
+2- Tipos Primitivos Básicos;
+	int = Utilizado para Numeros inteiros, Ex: 7,4,0,-1;
+	
+	float = Utilizado para Numeros com ponto ou virgula, Ex: 4.5, 5.323, -0.342;
+	
+	bool = Representa, True ou False (obs: sempre utilizar T e F maiúsculo);
+	
+	str = Utilizado para carcteres, Ex: 'gui', '123', 'ola, como vai?1';
+
+3- Utilizando o Print de outra maneira;
+	Ex:
+		print('soma vale {}'.format('inserir o quer exibir'))
+
