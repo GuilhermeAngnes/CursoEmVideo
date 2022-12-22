@@ -20,5 +20,9 @@ print(frase[13:])
 #### CONTAGEM ####
 frase = 'Curso em Video Python'
 print(frase.count(''))
+
+#### DIVIDIDO ####
+frase = 'Curso em Video Python'
+dividido = frase.split()
+print(dividido)
 """
-####  ####
